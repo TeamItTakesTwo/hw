@@ -1,0 +1,15 @@
+debug/datewidget.o
+debug/linerect.o
+debug/main.o
+debug/bubble.o
+debug/mainpage.o
+debug/mycalendarwidgetsmp.o
+debug/mycase.o
+debug/mytimer.o
+debug/qrc_src.o
+debug/moc_bubble.o
+debug/moc_datewidget.o
+debug/moc_linerect.o
+debug/moc_mainpage.o
+debug/moc_mycalendarwidgetsmp.o
+debug/moc_mytimer.o
