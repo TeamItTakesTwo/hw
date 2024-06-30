@@ -1,0 +1,15 @@
+release/datewidget.o
+release/linerect.o
+release/main.o
+release/bubble.o
+release/mainpage.o
+release/mycalendarwidgetsmp.o
+release/mycase.o
+release/mytimer.o
+release/qrc_src.o
+release/moc_bubble.o
+release/moc_datewidget.o
+release/moc_linerect.o
+release/moc_mainpage.o
+release/moc_mycalendarwidgetsmp.o
+release/moc_mytimer.o
